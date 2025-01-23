@@ -8,7 +8,7 @@ update_freqency 每執行幾次指派後要更新旅行時間
 
 目前設定：
 
-max_iterations = 2 
+max_iterations = 2 (越大越好)
 
-update_freqency = 10 
+update_freqency = 10 (越小越好)
 
