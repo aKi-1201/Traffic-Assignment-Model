@@ -7,7 +7,7 @@ Data Preparation /
 
 `no_left_turn Pre.ipynb`  禁左路口資料
 
-將資料轉換為 TNTP 格式
+用以將資料轉換為 TNTP 格式 (.dat)
 
 ta /
 ===
