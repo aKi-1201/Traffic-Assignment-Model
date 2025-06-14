@@ -11,9 +11,11 @@ Data Preparation
 
 ta 
 ===
-(Traffic Assignment)
+Traffic Assignment
 
-`ta.ipynb` (指派主程式)
+指派主程式
+
+`ta.ipynb` 
 
 ta / 指派結果
 ===
