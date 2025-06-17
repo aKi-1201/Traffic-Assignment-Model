@@ -20,7 +20,7 @@ Traffic Assignment
 ta / 指派結果 /
 ===
 
-`Correction fot TRTS-4S.ipynb`
+`Correction for TRTS-4S.ipynb`
 
 指派結果校估，
 
