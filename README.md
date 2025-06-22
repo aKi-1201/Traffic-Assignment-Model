@@ -1,5 +1,4 @@
-Data Preparation /
-===
+# Data Preparation /
 
 `Net Pre.ipynb`  路網資料
 
@@ -9,8 +8,8 @@ Data Preparation /
 
 用以將資料轉換為 TNTP 格式 (.dat)
 
-ta /
-===
+# ta /
+
 Traffic Assignment
 
 `ta.ipynb` 
@@ -30,8 +29,8 @@ ta / 指派結果 /
 
 ![image](https://github.com/aKi-1201/Traffic-Assignment-Model/blob/main/%E6%A0%A1%E4%BC%B0104%E5%B9%B4%E6%98%8F%E5%B3%B0%E6%8C%87%E6%B4%BE%E6%B5%81%E9%87%8F.png)
 
-TRTS-4S 路網編修
-===
+# TRTS-4S 路網編修
+
 ## 新生北路平面 車道數有誤（僅部分拆除路網）
 
 link 6597 -> 6598, 8414 -> 9214
@@ -79,7 +78,7 @@ S0 = 32
 
 ## 國一內湖至汐止 車道數有誤
 
-# 【北向】
+### 【北向】
 
 link 6982 -> 6882 -> 6883 -> 5032  lanes = 3
 
@@ -87,7 +86,7 @@ link 6982 -> 6882 -> 6883 -> 5032  lanes = 3
 
 5033 -> 7193  lanes = 3
 
-# 【南向】
+### 【南向】
 
 link 7192 -> 5022  lanes = 3
 
