@@ -27,7 +27,7 @@ ta / 指派結果 /
 
 ![image](image/校估104年晨峰指派流量_v4.png)
 
-![image](https://github.com/aKi-1201/Traffic-Assignment-Model/blob/main/%E6%A0%A1%E4%BC%B0104%E5%B9%B4%E6%98%8F%E5%B3%B0%E6%8C%87%E6%B4%BE%E6%B5%81%E9%87%8F.png)
+![image](image/校估104年昏峰指派流量_v4.png)
 
 # TRTS-4S 路網編修
 
