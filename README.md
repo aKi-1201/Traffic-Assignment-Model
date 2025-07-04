@@ -25,9 +25,9 @@ ta / 指派結果 /
 
 與實際值、CUBE 模擬值相比較
 
-![image](image/校估104年晨峰指派流量_v4.png)
+![image](image/校估104年晨峰指派流量_v5.png)
 
-![image](image/校估104年昏峰指派流量_v4.png)
+![image](image/校估104年昏峰指派流量_v5.png)
 
 # TRTS-4S 路網編修
 
