@@ -1,4 +1,3 @@
-origin	dest	capacity	length	fft	alpha	beta	speedLimit	LinkType	NMoto	NCar
 14043	9070	770.0	0.29	0.54375	1.5554	3.829	0.0	6	0	0
 9069	14043	770.0	0.15	0.28125	1.5554	3.829	0.0	6	0	0
 1088	10930	9999.0	0.44	6.6	0.0	0.0	0.0	11	0	0
